@@ -69,7 +69,12 @@ python main.py
 ## Citation
 
 If you find this work useful, please cite the following:
+```article
+H. Du, Z. Che, M. Shen, L. Zhu and J. Hu, "Breaking the Anonymity of Ethereum Mixing Services Using Graph Feature Learning," 
+in IEEE Transactions on Information Forensics and Security, vol. 19, pp. 616-631, 2024, doi: 10.1109/TIFS.2023.3326984.
+```
 
+The BibTeX is as the following:
 ```bib
 @ARTICLE{10292691,
   author={Du, Hanbiao and Che, Zheng and Shen, Meng and Zhu, Liehuang and Hu, Jiankun},
