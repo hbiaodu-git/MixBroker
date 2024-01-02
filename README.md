@@ -91,3 +91,5 @@ The BibTeX is as the following:
 ## Q&A
 
 If you have any questions, you can contact me (duhanbiao@bit.edu.cn), and I will reply as soon as I see the email.
+
+More detailed information about the research of Meng Shen Lab can be found here (https://mengshen-office.github.io/).
